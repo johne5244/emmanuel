@@ -1,0 +1,75 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (USER)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="C:\Users\USER\anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/1542451628" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (pycharm)" />
+      <type value="Python SDK" />
+      <homePath value="C:\Users\USER\PycharmProjects\pycharm\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/PycharmCE2019.3/Anaconda3/pycharm/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmCE2019.3/Anaconda3/pycharm/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmCE2019.3/Anaconda3/pycharm/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmCE2019.3/Anaconda3/pycharm/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/1854870590" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/pycharm" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (pycharm)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="C:\Users\USER\PycharmCE2019.3\Anaconda3\pycharm\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmCE2019.3/Anaconda3/pycharm" />
+    </jdk>
+  </component>
+</application>
